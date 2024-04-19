@@ -26,7 +26,7 @@
         },
         {
             "name": "WW-ZERGPOOL",
-            "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
+            "url": "stratum+tcp://verushash.na.mine.zergpool.com:3300",
             "timeout": 180,
             "disabled": 1
         },
@@ -44,7 +44,7 @@
         }],
 
     "user": "bc1qh0pjvdhswlz3yepdp3q54zrlewc2zgukrdvk8k.phone0001",
-    "pass": "",
+    "pass": "BTC",
     "algo": "verus",
     "threads": 8,
     "cpu-priority": 1,
